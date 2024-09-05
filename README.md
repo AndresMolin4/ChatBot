@@ -20,3 +20,6 @@ Ejemplo: Chatbot que pelicula de accion me recomiendas, o algo asi ....
 o que otro tema... ya que nos toca hacer la primera entrega el 16 , con justificaciones, planteamiento , objetivos principales y secundarios  y referencias.
 por favor les agradezco opinar.... mientras se crea el grupo.... ya hoy estamos a 4 y aparte hay mas trabajos , cuadremos cuando nos podemos organizar o que ?
 
+
+me parece muy buena la idea, si necesitamos de alguna forma poder reunnirnos para organizar esos temas.
+
