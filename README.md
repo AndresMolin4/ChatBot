@@ -22,4 +22,13 @@ por favor les agradezco opinar.... mientras se crea el grupo.... ya hoy estamos 
 
 
 me parece muy buena la idea, si necesitamos de alguna forma poder reunnirnos para organizar esos temas.
+idea surgida de nombre: 
+
+Recomendar película libro. 
+
+Recommend movie book 
+
+nombre: Recomombot. 
+
+planteamiento: queremos ayudar con una herramienta informática de chat boot a los usuarios consumidores de libros y de películas, a encontrar bien sea una película basada en un libro o el libro basado en una película, esto de manera ágil y rápida, respondiendo al usuario con el nombre del libro o la película y donde o en que plataforma puede encontrarla. 
 
