@@ -40,6 +40,4 @@ Por eso, Recomombot surge como una herramienta que facilita la vida de quienes d
 
 La idea es hacer que el proceso de búsqueda sea más ágil y agradable, ayudando a la gente a descubrir nuevas historias que podrían disfrutar, ya sea en la pantalla o en las páginas de un libro. Recomombot no solo mejora la experiencia del usuario, sino que también ayuda a conectar dos mundos que muchas veces van de la mano: el de la lectura y el del cine.
 
-entonces nos toca organizar mejor
-
-venga y entonces
+nos toca poner objetivos y referencias, 
