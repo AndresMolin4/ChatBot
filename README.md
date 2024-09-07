@@ -1,7 +1,7 @@
 Modificar
 # ChatBot
 compañero buenas tardes. 
-el profesor a hablado algo con respecto a este proyecto ?
+el profesor a hablado algo con respecto a este proyecto ? no ha mencionado nada al respecto, pero habia dicho que nos iba a explicar como unirlo con una ia para que nos de los datos, toca preguntarle apenas lo veamos
 
 por favor deje aqui sus numero para poder armar un grupo y poder adelantar lo que se necesite para este proyecto, gracias 
 
