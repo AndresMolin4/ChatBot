@@ -8,7 +8,7 @@ por favor deje aqui sus numero para poder armar un grupo y poder adelantar lo qu
 3117314648 Andres Molina
 3195845531 Carlos Sotelo 
 3229517642 David Bejarano
-
+3228312076 Edinson Rincon
 
 
 Podemos hacer el chat bot para que sea un Recomendador de Películas o Libros
