@@ -27,6 +27,8 @@ idea surgida de nombre:
 Recomendar película libro. 
 
 Recommend movie book 
+ 
+visual and read bot
 
 nombre: Recomombot. 
 
