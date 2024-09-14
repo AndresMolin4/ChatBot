@@ -32,7 +32,8 @@ visual and read bot
 
 nombre: Recomombot. 
 
-planteamiento: queremos ayudar con una herramienta informática de chat boot a los usuarios consumidores de libros y de películas, a encontrar bien sea una película basada en un libro o el libro basado en una película, esto de manera ágil y rápida, respondiendo al usuario con el nombre del libro o la película y donde o en que plataforma puede encontrarla. 
+planteamiento del problema: 
+   Queremos ayudar con una herramienta informática de chat boot a los usuarios consumidores de libros y de películas, a encontrar bien sea una película basada en un libro o el libro basado en una película, esto de manera ágil y rápida,respondiendo al usuario con el nombre del libro o la película y donde o en que plataforma puede encontrarla. 
 
 
 Justificacion:
@@ -42,42 +43,40 @@ Por eso, Recomombot surge como una herramienta que facilita la vida de quienes d
 
 La idea es hacer que el proceso de búsqueda sea más ágil y agradable, ayudando a la gente a descubrir nuevas historias que podrían disfrutar, ya sea en la pantalla o en las páginas de un libro. Recomombot no solo mejora la experiencia del usuario, sino que también ayuda a conectar dos mundos que muchas veces van de la mano: el de la lectura y el del cine.
 
-nos toca poner objetivos y referencias, 
+//nos toca poner objetivos y referencias, 
 
 
-aqui pongo sugerencia de objetivos 
+//aqui pongo sugerencia de objetivos 
+
 Objetivos principales:
+
 Identificación de preferencias del usuario:
 
-Recopilar información sobre los géneros, autores, directores, actores, y temáticas favoritas del usuario mediante preguntas y análisis de interacciones previas.
+mostrar información sobre los géneros, autores,nombres propios y temáticas favoritas del usuario mediante preguntas y análisis de interacciones previas.
+
 Generación de recomendaciones personalizadas:
 
-Ofrecer recomendaciones de películas y libros basadas en las preferencias del usuario utilizando algoritmos de recomendación (filtrado colaborativo, análisis de contenido, etc.).
-Actualización y evolución de las preferencias del usuario:
+Ofrecer recomendaciones de películas y libros basadas en preguntas especificas del chatboot.
 
-Adaptar y refinar las recomendaciones a medida que el usuario interactúa más con el chatbot, registrando nuevas preferencias, reseñas, o comentarios.
+
 Interfaz conversacional fluida:
 
 Proporcionar una experiencia de chat amigable y natural, utilizando un lenguaje sencillo y permitiendo al usuario solicitar recomendaciones o explorar nuevas opciones fácilmente.
+
 Acceso a bases de datos actualizadas:
 
-Conectar el chatbot a bases de datos de películas y libros (como IMDb, Goodreads, etc.) para asegurar que las recomendaciones sean actuales y variadas.
+Conectar el chatbot a bases de datos de películas y libros , para asegurar que las recomendaciones sean actuales y variadas.
+
 Objetivos secundarios:
+
 Facilitar filtros de búsqueda avanzados:
 
-Permitir al usuario filtrar recomendaciones por criterios específicos como año de publicación, duración, número de páginas, autores o directores favoritos, entre otros.
-Generación de listas personalizadas:
+Permitir al usuario filtrar recomendaciones por criterios específicos como año de publicación, duración, número de páginas y autores fovoritos.
 
-Crear listas de deseos, marcadores o listas personalizadas según las recomendaciones aceptadas o guardadas por el usuario para futuras consultas.
 Reseñas y calificaciones:
 
 Permitir al usuario calificar y reseñar las películas y libros recomendados, utilizando esa retroalimentación para mejorar las futuras recomendaciones.
-Sugerencias según el estado de ánimo o actividad:
 
-Ofrecer recomendaciones basadas en el estado de ánimo del usuario, como "algo para relajarse", "películas para reflexionar", o "libros para leer en vacaciones".
-Sincronización con plataformas de streaming o lectura:
+Ofrecer enlaces o información sobre la disponibilidad de películas y libros en plataformas de streaming o librerías online:
 
-Ofrecer enlaces o información sobre la disponibilidad de películas y libros en plataformas de streaming o librerías online para facilitar el acceso inmediato al contenido recomendado.
-Recomendaciones basadas en tendencias:
-
-Sugerir películas y libros populares o tendencias actuales que podrían ser de interés, además de las recomendaciones personalizadas.
+Sugerir películas y libros populares o tendencias actuales que podrían ser de interés.
