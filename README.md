@@ -45,7 +45,7 @@ Permitir al usuario calificar y reseñar las películas y libros recomendados
 
 - Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
 - Icon created by <a href="https://www.flaticon.es/iconos-gratis/esquema" title="esquema iconos">Esquema iconos creados por Freepik - Flaticon</a>.
-- Markdown Extras by https://pandao.github.io/editor.md/en.html
+- Markdown Extras by https://pandao.github.io/editor.md/en.html.
 
 
 ![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)
