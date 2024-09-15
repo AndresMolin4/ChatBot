@@ -1,4 +1,3 @@
-
 #Recomombot [![geometria22.png](https://i.postimg.cc/zfNFZLgD/geometria22.png)](https://postimg.cc/4Y89pxPj)
 
 
