@@ -1,9 +1,11 @@
 Recomombot. 
 
 
+
 Planteamiento del problema: 
 
  Queremos desarrollar una herramienta de chatbot que permita a los usuarios encontrar, de forma ágil y rápida, películas basadas en libros o libros basados en películas. De igual manera, encontrar peliculas de su preferencia. El chatbot proporcionará el título y la plataforma donde el usuario puede acceder al contenido.
+
 
 
 Justificacion:
@@ -14,38 +16,54 @@ Por eso surge Recomombot, una herramienta diseñada para facilitar la vida de lo
 
 La idea es hacer la búsqueda más ágil y agradable, ayudando a la gente a descubrir nuevas historias que disfrutarán, ya sea en la pantalla o en las páginas de un libro. Recomombot no solo mejora la experiencia del usuario, sino que también conecta dos mundos que van de la mano: la lectura y el cine.
 
+
  
 Objetivos principales:
 
 
+
  Identificación de preferencias del usuario:
 
-Mostrar información sobre los géneros, autores, títulos y temas preferidos del usuario mediante preguntas y el análisis de interacciones previas.
+   
+   Mostrar información sobre los géneros, autores, títulos y temas preferidos del usuario mediante preguntas y el análisis de interacciones previas.
+
+
 
  Generación de recomendaciones personalizadas:
 
-Ofrecer recomendaciones de películas y libros basadas en preguntas especificas del chatboot.
+
+  Ofrecer recomendaciones de películas y libros basadas en preguntas especificas del chatboot.
+
+
 
  Interfaz conversacional fluida:
 
-Proporcionar una experiencia de chat amigable y natural, utilizando un lenguaje claro y permitiendo al usuario solicitar recomendaciones o explorar nuevas opciones de forma sencilla.
+ 
+  Proporcionar una experiencia de chat amigable y natural, utilizando un lenguaje claro y permitiendo al usuario solicitar recomendaciones o explorar nuevas opciones de forma sencilla.
+
+
 
 Acceso a bases de datos actualizadas:
 
-Conectar el chatbot a bases de datos de películas y libros , para asegurar que las recomendaciones sean actuales y variadas.
+  Conectar el chatbot a bases de datos de películas y libros , para asegurar que las recomendaciones sean actuales y variadas.
 
 
 Objetivos especificos:
 
 
+
  Facilitar filtros de búsqueda avanzados:
 
-Permitir al usuario filtrar recomendaciones por criterios específicos como año de publicación, duración, número de páginas y autores fovoritos.
+
+  Permitir al usuario filtrar recomendaciones por criterios específicos como año de publicación, duración, número de páginas y autores fovoritos.
+
+
 
  Reseñas y calificaciones:
 
-Permitir al usuario calificar y reseñar las películas y libros recomendados
 
-Ofrecer enlaces o detalles sobre la disponibilidad de películas y libros en plataformas de streaming o librerías en línea.
+  Permitir al usuario calificar y reseñar las películas y libros recomendados
 
-Sugerir películas y libros populares o tendencias actuales que podrían ser de su interés.
+  Ofrecer enlaces o detalles sobre la disponibilidad de películas y libros en plataformas de streaming o librerías en línea.
+
+  Sugerir películas y libros populares o tendencias actuales que podrían ser de su interés.
