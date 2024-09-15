@@ -1,5 +1,5 @@
 
-# Recomombot [![geometria22.png](https://i.postimg.cc/zfNFZLgD/geometria22.png)](https://postimg.cc/4Y89pxPj)
+# Recomombot [![ab333333.png](https://i.postimg.cc/sXB7FHWp/ab333333.png)](https://postimg.cc/zbrVKj0B)
 
 
 ## Planteamiento del problema
