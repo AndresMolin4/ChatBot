@@ -47,6 +47,6 @@ Permitir al usuario calificar y reseñar las películas y libros recomendados
 - Icon created by <a href="https://www.flaticon.es/iconos-gratis/esquema" title="esquema iconos">Esquema iconos creados por Freepik - Flaticon</a>.
 - Markdown Extras by https://pandao.github.io/editor.md/en.html
 
-<p>
+
 ![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)
-</p>
+
