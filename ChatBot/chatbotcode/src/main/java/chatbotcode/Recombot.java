@@ -20,7 +20,7 @@ public class Recombot {
     public static void main(String[] args) {
 
         // Carga la clave de API usando dotenv
-        Dotenv dotenv = Dotenv.configure().directory("C:/Users/ANDRES/Desktop/Programacion/ChatBot").load(); 
+        Dotenv dotenv = Dotenv.configure().directory("C:\Users\ANDRES\Desktop\Programacion\ChatBot\chatbotcode").load(); 
         String key = dotenv.get("OPENAI_API_KEY");
         
         OpenAI openai = OpenAI.builder()
