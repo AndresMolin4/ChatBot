@@ -14,7 +14,7 @@
 - [Referencias](#referencias)
   
 --- 
-## Interfaces
+## Interfaces 
 
 ![Vídeo sin título ‐ Hecho con Clipchamp (2)](https://github.com/user-attachments/assets/afc63eba-a2d8-4592-a83b-187c6d7aad59)
 
@@ -30,7 +30,7 @@ Por eso surge Recomombot, una herramienta diseñada para facilitar la vida de lo
 La idea es hacer la búsqueda más ágil y agradable, ayudando a la gente a descubrir nuevas historias que disfrutarán, ya sea en la pantalla o en las páginas de un libro. Recomombot no solo mejora la experiencia del usuario, sino que también conecta dos mundos que van de la mano: la lectura y el cine.
 
 ---
-### Objetivos principales
+### Objetivos principales 
 
 - #### Identificación de preferencias del usuario:
 Mostrar información sobre los géneros, autores, títulos y temas preferidos del usuario mediante preguntas y el análisis de interacciones previas.
@@ -54,7 +54,7 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 
 ---
 
-### Referencias
+### Referencias <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 - Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
 - Icon created by <a href="https://www.flaticon.es/iconos-gratis/esquema" title="esquema iconos">Esquema iconos creados por Freepik - Flaticon</a>.
