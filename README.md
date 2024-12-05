@@ -35,6 +35,11 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 	- Ofrecer enlaces o detalles sobre la disponibilidad de películas y libros en plataformas de streaming o librerías en línea.
 
 ---
+
+
+
+
+
 ### Referencias
 
 - Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
@@ -43,3 +48,6 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 
 
 ![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)
+
+
+
