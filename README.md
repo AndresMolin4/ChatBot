@@ -72,7 +72,7 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
       </td>
     </tr>
   </table>
-  </p>
+</p>
   
 
 
