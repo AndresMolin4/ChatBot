@@ -9,7 +9,9 @@
   - [Interfaz conversacional](#interfaz-conversacional)
   - [Acceso a bases de datos actualizadas](#acceso-a-bases-de-datos-actualizadas)
 - [Objetivos específicos](#objetivos-específicos)
+- [Interfaces](#interfaces)
 - [Referencias](#referencias)
+  
 
 ## Planteamiento del problema
 
@@ -46,8 +48,9 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 	- Ofrecer enlaces o detalles sobre la disponibilidad de películas y libros en plataformas de streaming o librerías en línea.
 
 ---
+### Interfaces
 
-
+![Vídeo sin título ‐ Hecho con Clipchamp (2)](https://github.com/user-attachments/assets/afc63eba-a2d8-4592-a83b-187c6d7aad59)
 
 
 
@@ -57,7 +60,7 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 - Icon created by <a href="https://www.flaticon.es/iconos-gratis/esquema" title="esquema iconos">Esquema iconos creados por Freepik - Flaticon</a>.
 - Markdown Extras by https://pandao.github.io/editor.md/en.html.
 
-
+---
 ![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)
 
 
