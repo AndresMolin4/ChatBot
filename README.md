@@ -1,4 +1,15 @@
 # <img src="https://i.postimg.cc/sXB7FHWp/ab333333.png" height =40px>  Recomombot
+## Tabla de Contenidos
+
+- [Planteamiento del problema](#planteamiento-del-problema)
+- [Justificación](#justificación)
+- [Objetivos principales](#objetivos-principales)
+  - [Identificación de preferencias del usuario](#identificación-de-preferencias-del-usuario)
+  - [Generación de recomendaciones personalizadas](#generación-de-recomendaciones-personalizadas)
+  - [Interfaz conversacional](#interfaz-conversacional)
+  - [Acceso a bases de datos actualizadas](#acceso-a-bases-de-datos-actualizadas)
+- [Objetivos específicos](#objetivos-específicos)
+- [Referencias](#referencias)
 
 ## Planteamiento del problema
 
