@@ -16,7 +16,9 @@
 --- 
 ## Interfaces 
 
-![Vídeo sin título ‐ Hecho con Clipchamp (2)](https://github.com/user-attachments/assets/afc63eba-a2d8-4592-a83b-187c6d7aad59)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/afc63eba-a2d8-4592-a83b-187c6d7aad59" alt="Vídeo sin título ‐ Hecho con Clipchamp (2)">
+</div>
 
 ## Planteamiento del problema
 
