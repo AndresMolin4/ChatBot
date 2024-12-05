@@ -1,6 +1,8 @@
 # <img src="https://i.postimg.cc/sXB7FHWp/ab333333.png" height =40px>  Recomombot
+--- 
 ## Tabla de Contenidos
 
+- [Interfaces](#interfaces)
 - [Planteamiento del problema](#planteamiento-del-problema)
 - [Justificación](#justificación)
 - [Objetivos principales](#objetivos-principales)
@@ -9,9 +11,12 @@
   - [Interfaz conversacional](#interfaz-conversacional)
   - [Acceso a bases de datos actualizadas](#acceso-a-bases-de-datos-actualizadas)
 - [Objetivos específicos](#objetivos-específicos)
-- [Interfaces](#interfaces)
 - [Referencias](#referencias)
   
+--- 
+## Interfaces
+
+![Vídeo sin título ‐ Hecho con Clipchamp (2)](https://github.com/user-attachments/assets/afc63eba-a2d8-4592-a83b-187c6d7aad59)
 
 ## Planteamiento del problema
 
@@ -48,11 +53,6 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 	- Ofrecer enlaces o detalles sobre la disponibilidad de películas y libros en plataformas de streaming o librerías en línea.
 
 ---
-### Interfaces
-
-![Vídeo sin título ‐ Hecho con Clipchamp (2)](https://github.com/user-attachments/assets/afc63eba-a2d8-4592-a83b-187c6d7aad59)
-
-
 
 ### Referencias
 
@@ -60,8 +60,20 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 - Icon created by <a href="https://www.flaticon.es/iconos-gratis/esquema" title="esquema iconos">Esquema iconos creados por Freepik - Flaticon</a>.
 - Markdown Extras by https://pandao.github.io/editor.md/en.html.
 
----
-![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)
+--- 
+<p align="center">
+  <table align="center" style="margin: 0px auto;">
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"> 
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      </td>
+    </tr>
+  </table>
+  </p>
+  
+
+
 
 
 
