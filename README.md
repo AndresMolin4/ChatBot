@@ -58,6 +58,7 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 
 ## Diagramas UML
 
+<img width="392" height="285" alt="image" src="https://github.com/user-attachments/assets/796f0e81-2681-46ab-840b-175d20331315" />
 
 
 ## Referencias
