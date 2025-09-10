@@ -56,6 +56,10 @@ Permitir al usuario filtrar recomendaciones por criterios específicos como año
 
 ---
 
+## Diagramas UML
+
+
+
 ## Referencias
 
 - Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
